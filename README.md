@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🌱 I’m currently learning GitHub! :slightly_smiling_face: 
 <!--
 **RobertF-G/RobertF-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
