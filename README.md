@@ -1,3 +1,4 @@
+![Vintner-Systems-Grapes](https://github.com/user-attachments/assets/9aaedde0-0fbf-46cc-9ce3-94b78484cc1d)
 ## Hi there 👋
 🌱 I’m currently learning GitHub! :slightly_smiling_face: 
 <!--
